@@ -1,6 +1,6 @@
 - 👋 Hi, I’m TheCodeCrafter
 - 🧠 I'm currently learning Python, HTML, CSS, Javascript, React, Cyber Security
-- ✉ You can contact me here giogagnie@gmail.com
+- ✉ You can contact me here giogagnie@gmail.com and here https://www.facebook.com/profile.php?id=100072526356583
 - 👀 I’m interested in Web Development/Cyber Security
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate with Data Diasamidze ;D
