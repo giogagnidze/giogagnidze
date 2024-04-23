@@ -15,15 +15,14 @@
 
 📫 How to reach me giogagnie@gmail.com
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/daniel abramiani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniel abramiani" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/daniel abramiani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="daniel abramiani" height="30" width="40" /></a>
+<a href="https://discord.gg/daniel01779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="daniel01779" height="30" width="40" /></a>
+</p>
  </div>
- <div>
-     <h3 align="left">Connect with me:</h3>
-    <p align="left">
-    <a href="https://instagram.com/daniel abramiani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-        generator/master/src/images/icons/Social/instagram.svg" alt="daniel abramiani" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/daniel abramiani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-            generator/master/src/images/icons/Social/youtube.svg" alt="daniel abramiani" height="30" width="40" /></a>
-    <a href="https://discord.gg/daniel01779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="daniel01779" height="30" width="40" /></a>
-    </p>
- </div>
+
 <div align="center"> 
   <a href="https://mail.google.com/mail/u/0/#inbox">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
