@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+![image](https://github.com/giogagnidze/giogagnidze/assets/138000437/98093efc-8997-4ffc-8b1d-3e6bcdcd7ff1)<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+TheCodeCrafter!;" />
@@ -10,8 +10,11 @@
 
 <div align="center">
     
-🌱 I’m currently learning **Front-End Development**
+🌱 I’m currently learning **Front-End Development, React**
 
+💬 Ask me about Help if you need
+
+📫 How to reach me giogagnie@gmail.com
 
  </div>
  
