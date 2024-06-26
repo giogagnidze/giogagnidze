@@ -23,13 +23,11 @@
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,vscode,github,figma,tailwind,git," />
 </div>
 
 <br/>
-<hr/>
 
 <hr/>
 
