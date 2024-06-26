@@ -10,9 +10,16 @@
 
 <div align="center">
 
- 🌱 I’m currently learning **React, Bootstrap, JavaScript**
+- 🌱 I’m currently learning **React, Bootstrap, JavaScript**
 
- </div>
+- 📫 How to reach me giogagnie@gmail.com
+</div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/data.tezela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="data tezelashvili" height="30" width="40" /></a>
+<a href="https://instagram.com/datatezela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="datatezela" height="30" width="40" /></a>
+</p>
  
 <div align="center"> 
   <a href="https://mail.google.com/mail/u/0/#inbox">
