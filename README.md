@@ -10,9 +10,9 @@
 
 <div align="center">
 
-- 🌱 I’m currently learning **React, Bootstrap, JavaScript**
+  🌱 I’m currently learning **React, Bootstrap, JavaScript**
 
-- 📫 How to reach me giogagnie@gmail.com
+  📫 How to reach me giogagnie@gmail.com
 </div>
 
 <h3 align="left">Connect with me:</h3>
