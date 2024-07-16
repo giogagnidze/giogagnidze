@@ -13,6 +13,8 @@
   🌱 I’m currently learning **React, Bootstrap, JavaScript**
 
   📫 How to reach me giogagnie@gmail.com
+
+  👨‍💻 Portfolio: https://portfolio-three-psi-19.vercel.app
 </div>
 
 <h3 align="left">Connect with me:</h3>
