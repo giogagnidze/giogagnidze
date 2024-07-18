@@ -14,7 +14,11 @@
 
   📫 How to reach me giogagnie@gmail.com
 
-  👨‍💻 Portfolio: https://portfolio-three-psi-19.vercel.app
+  👨‍💻 Check out my Portfolio:
+     https://portfolio-three-psi-19.vercel.app/
+     Made with React and Bootstrap.
+     recommendation: Turn on Dark-Reader.
+     Creator: Gio Gagnidze!
 </div>
 
 <h3 align="left">Connect with me:</h3>
