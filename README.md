@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gio Gagnidze</h1>
-212284100-561aa473-3905-4a80-b561-0d28506553ee.gif…]()
+212284100-561aa473-3905-4a80-b561-0d28506553ee.gif
 
 <h3 align="center">software developer from Georgia</h3>
 
