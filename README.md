@@ -2,7 +2,7 @@
 ![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/user-attachments/assets/b979b446-dac1-47ee-a154-d4f627ccfdf5)
 
 
-<h1 align="center">Hi 👋, I'm Gio Gagnidze</h1> ![226127927-3feb953e-cc01-482e-b732-311b2907991f](https://github.com/user-attachments/assets/f4ca58b1-d97e-4a08-b65c-474046facf09)
+<h1 align="center">Hi 👋, I'm Gio Gagnidze</h1> 
 
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/03f1a853-1a9b-40c9-b6cc-96723de558b1)
