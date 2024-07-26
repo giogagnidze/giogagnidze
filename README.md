@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gio Gagnidze</h1>
+![Uploading 212284100-561aa473-3905-4a80-b561-0d28506553ee.gif…]()
+
 <h3 align="center">software developer from Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giogagnidze&label=Profile%20views&color=0e75b6&style=flat" alt="giogagnidze" /> </p>
