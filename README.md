@@ -33,3 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giogagnidze&show_icons=true&locale=en" alt="giogagnidze" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giogagnidze&" alt="giogagnidze" /></p>
+
+
+![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/5066dd30-aefd-491c-9f4a-a400a145cf8a)
