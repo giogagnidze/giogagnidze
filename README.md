@@ -1,5 +1,5 @@
 
-![221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470](https://github.com/user-attachments/assets/0cb24d0b-9e40-46a2-897b-fa2b7a3cdf7c)
+![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/user-attachments/assets/b979b446-dac1-47ee-a154-d4f627ccfdf5)
 
 
 <h1 align="center">Hi 👋, I'm Gio Gagnidze</h1>
