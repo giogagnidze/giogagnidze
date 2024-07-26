@@ -1,3 +1,7 @@
+
+![221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470](https://github.com/user-attachments/assets/0cb24d0b-9e40-46a2-897b-fa2b7a3cdf7c)
+
+
 <h1 align="center">Hi 👋, I'm Gio Gagnidze</h1>
 
 <h3 align="center">software developer from Georgia</h3>
