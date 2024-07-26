@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gio Gagnidze</h1>
-212284100-561aa473-3905-4a80-b561-0d28506553ee.gif
+![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/2a41e196-f59f-48b9-a412-bc74b69a3f49)
+
 
 <h3 align="center">software developer from Georgia</h3>
 
