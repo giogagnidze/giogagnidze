@@ -1,7 +1,3 @@
-![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/03f1a853-1a9b-40c9-b6cc-96723de558b1)
-![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/user-attachments/assets/b979b446-dac1-47ee-a154-d4f627ccfdf5)
-![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/03f1a853-1a9b-40c9-b6cc-96723de558b1)
-
 <h1 align="center">Hi 👋, I'm Gio Gagnidze</h1> 
 
 <h3 align="center">software developer from Georgia</h3>
@@ -32,4 +28,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giogagnidze&" alt="giogagnidze" /></p>
 
 
-![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/5066dd30-aefd-491c-9f4a-a400a145cf8a)
